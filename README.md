@@ -18,8 +18,6 @@
 [Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/AaronDominguez.py) para mejorar en el cálculo matemático.
 
 
-<<<<<<< HEAD
-[Programa]() para mejorar en el cálculo matemático.
 >>>>>>> d3a3e34c626864ecdaf493360d3dcb3256d95898
 =======
 *[Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/AaronDominguez.py) para mejorar en el cálculo matemático.

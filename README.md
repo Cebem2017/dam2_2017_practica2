@@ -1,10 +1,12 @@
 # dam2_2017_practica2
 
-<<<<<<< HEAD
+
 **__Alexander Gonzalez Rodriguez__**
 ======
     Mi programa me da un ganador entre los posibles dentro de una lista de manera random
+    YA TE LO ARREGLO YO!
 =======
+
 **Daniel perez Nieto**
 
 *Mi programa abre una ventana y te deja introducir una URL a la que acceder, abriendola en el el navegador por defecto*

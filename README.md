@@ -13,9 +13,25 @@ Para quienes no conozcan la sucesión de *Fibonacci*, se trata de una sucesión 
 
 =======
 
+**__Alexander Gonzalez Rodriguez__**
+======
+    Mi programa me da un ganador entre los posibles dentro de una lista de manera random
+    YA TE LO ARREGLO YO!
+=======
+
+**Daniel perez Nieto**
+
+*Mi programa abre una ventana y te deja introducir una URL a la que acceder, abriendola en el el navegador por defecto*
+
+=======
+
 #### Aarón Domínguez Díez
 --
 [Programa]() para mejorar en el cálculo matemático.
+
 =======
 *[Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/AaronDominguez.py) para mejorar en el cálculo matemático.
 
+
+=======
+*[Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/AaronDominguez.py) para mejorar en el cálculo matemático.

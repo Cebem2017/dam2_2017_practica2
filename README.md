@@ -58,5 +58,5 @@ Funcionamiento:
 [Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/nota_alumnos_Nuria_Hervella.py) que dice que nota ha sacado un alumno 
 
 ## Alexandre Insua Moreira
-[Script](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/AlexandreInsuaMoreira.py) que calcula o enésimo número da serie de Fibonacci. 
-![alt Sucesión de Fibonacci](https://upload.wikimedia.org/wikipedia/commons/2/2e/FibonacciSpiral.svg)
+[Script](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/AlexandreInsuaMoreira.py) que calcula o enésimo número da serie de Fibonacci mediante un método recursivo. 
+![Sucesión de Fibonacci](https://upload.wikimedia.org/wikipedia/commons/2/2e/FibonacciSpiral.svg)

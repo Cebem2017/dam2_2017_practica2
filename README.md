@@ -13,7 +13,11 @@
 =======
 
 #### Aarón Domínguez Díez
---
+----
+![logotipo python](https://dynamicimageses-v2b.netdna-ssl.com/product_class_external_product/python.png "logotio python")
+[Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/AaronDominguez.py) para mejorar en el cálculo matemático.
+
+
 <<<<<<< HEAD
 [Programa]() para mejorar en el cálculo matemático.
 >>>>>>> d3a3e34c626864ecdaf493360d3dcb3256d95898

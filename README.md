@@ -40,3 +40,7 @@ Funcionamiento:
 * A menor tiempo restante mas satisfacción 
 
 [Ir al código](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/Christian.py)
+
+### Isaac García Casal
+---
+[Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/isaac.py) que calcula el área de un círculo, un rectángulo o un triángulo.

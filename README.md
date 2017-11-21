@@ -28,3 +28,15 @@ Funcionamiento:
 * Muestra por pantalla la diferencia
 
 [Ir al código](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/BorjaGiraldez.py)
+
+
+## Christian Vilas Villar
+
+> Programa que dice cuanto falta para salir de clase
+
+Funcionamiento:
+* Ejecuta el programa
+* Visualiza el resultado
+* A menor tiempo restante mas satisfacción 
+
+[Ir al código](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/Christian.py)

@@ -1,7 +1,7 @@
 # dam2_2017_practica2
 
 
-**__Alexánder González Rodríguez__**
+**__Alexander González Rodríguez__**
 ======
     Mi programa me da un ganador entre los posibles dentro de una lista de manera random
     YA TE LO ARREGLO YO!

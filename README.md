@@ -44,3 +44,10 @@ Funcionamiento:
 ### Isaac García Casal
 
 [Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/isaac.py) que calcula el área de un círculo, un rectángulo o un triángulo.
+
+
+### Juan Veiga Silva
+
+- Programa que cambia el filtro de una imagen
+
+[Código](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/JVS.py) 

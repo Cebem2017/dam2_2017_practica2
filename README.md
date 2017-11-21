@@ -51,3 +51,9 @@ Funcionamiento:
 - Programa que cambia el filtro de una imagen
 
 [Código](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/JVS.py) 
+
+
+## Nuria Hervella Martínez
+
+[Programa](https://github.com/Cebem2017/dam2_2017_practica2/blob/master/nota_alumnos_Nuria_Hervella.py) que dice que nota ha sacado un alumno 
+
